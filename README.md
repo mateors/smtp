@@ -11,3 +11,6 @@ https://marc.info/?l=python-bugs-list&m=128078525530978&w=2
 ## Power DNS
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-powerdns-with-a-mariadb-backend-on-ubuntu-14-04
 https://www.linode.com/docs/guides/email-with-postfix-dovecot-and-mariadb-on-centos-7/
+
+## Authoritative Nameserver
+> An authoritative Nameserver is a nameserver (DNS Server) that holds the actual DNS records (A, CNAME, PTR, etc) for a particular domain/ address. A recursive resolver would be a DNS server that queries an authoritative nameserver to resolve a domain/ address.
