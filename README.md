@@ -25,6 +25,15 @@ https://doc.powerdns.com/authoritative/migration.html
 
 https://doc.powerdns.com/authoritative/backends/generic-mysql.html
 
+https://github.com/PowerDNS/pdns
+
+## Database Schema
+https://github.com/PowerDNS/pdns/blob/master/modules/gmysqlbackend/schema.mysql.sql
+
+## Install Mariadb
+https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-18-04
+
+
 ## NSD
 https://www.digitalocean.com/community/tutorials/how-to-use-nsd-an-authoritative-only-dns-server-on-ubuntu-14-04
 
