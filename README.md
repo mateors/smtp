@@ -1,5 +1,12 @@
 # DNS Server
 
+Raw DNS Query and Answer
+https://github.com/vishen/go-dnsquery
+
+Handwritye DNS
+https://routley.io/posts/hand-writing-dns-messages/
+
+
 https://www.jwillikers.com/opensmtpd-ubuntu
 
 https://coderwall.com/p/eejzja/simple-smtp-server-with-opensmtpd
