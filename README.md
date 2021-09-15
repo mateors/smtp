@@ -21,6 +21,12 @@ https://www.claudiokuenzler.com/blog/1055/how-to-bulk-mass-change-dns-records-po
 
 https://computingforgeeks.com/install-powerdns-and-powerdns-admin-on-ubuntu-debian/
 
+https://doc.powerdns.com/authoritative/migration.html
+
+https://doc.powerdns.com/authoritative/backends/generic-mysql.html
+
+## NSD
+https://www.digitalocean.com/community/tutorials/how-to-use-nsd-an-authoritative-only-dns-server-on-ubuntu-14-04
 
 ## Check port 53
 > netstat -apn|grep 53
