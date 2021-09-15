@@ -1,4 +1,4 @@
-# SMTP server
+# DNS Server
 
 https://www.jwillikers.com/opensmtpd-ubuntu
 
