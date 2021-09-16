@@ -74,3 +74,6 @@ https://github.com/foxcpp/maddy
 
 ## chasquid
 https://github.com/albertito/chasquid
+
+## docker-mailserver
+https://github.com/docker-mailserver/docker-mailserver
