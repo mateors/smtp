@@ -6,6 +6,11 @@ https://github.com/vishen/go-dnsquery
 Handwritye DNS
 https://routley.io/posts/hand-writing-dns-messages/
 
+https://datatracker.ietf.org/doc/html/rfc1035#page-26
+
+## Protocols-dns-query
+https://www.firewall.cx/networking-topics/protocols/domain-name-system-dns/160-protocols-dns-query.html
+
 ## Python-binascii-unhexlify-method
 https://stackoverflow.com/questions/55699760/go-how-to-implement-python-binascii-unhexlify-method
 
