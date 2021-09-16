@@ -71,3 +71,6 @@ https://github.com/matoous/gosmtp
 
 ## Maddy
 https://github.com/foxcpp/maddy
+
+## chasquid
+https://github.com/albertito/chasquid
