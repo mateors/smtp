@@ -81,4 +81,7 @@ https://github.com/docker-mailserver/docker-mailserver
 
 ## how_email_works
 https://www.oasis-open.org/khelp/kmlm/user_help/html/how_email_works.html
+
 https://www.computernetworkingnotes.com/networking-tutorials/how-email-works-step-by-step-explained.html
+
+https://www.interserver.net/tips/kb/exactly-emails-works-steps-explanation/
