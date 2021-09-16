@@ -65,3 +65,9 @@ https://www.digitalocean.com/community/tutorials/how-to-use-nsd-an-authoritative
 
 ## Check port 53
 > netstat -apn|grep 53
+
+## Go SMtP
+https://github.com/matoous/gosmtp
+
+## Maddy
+https://github.com/foxcpp/maddy
