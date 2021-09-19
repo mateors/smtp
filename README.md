@@ -1,6 +1,9 @@
 # DNS Server
 
-Raw DNS Query and Answer
+## Power DNS Setup Guide
+https://damyan.blog/post/iac-series-dns-part-1/
+
+## Raw DNS Query and Answer
 https://github.com/vishen/go-dnsquery
 
 Handwritye DNS
