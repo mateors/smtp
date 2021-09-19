@@ -3,6 +3,11 @@
 ## Power DNS Setup Guide
 https://damyan.blog/post/iac-series-dns-part-1/
 
+## How to check a remote port open or not?
+> nc -z -v -w5 <host> <port> \
+> For a quick interactive check (with a 5 seconds timeout): \
+> nc -z -v -w5 74.208.181.199 53 
+
 ## Raw DNS Query and Answer
 https://github.com/vishen/go-dnsquery
 
